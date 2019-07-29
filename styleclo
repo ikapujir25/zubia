@@ -1,0 +1,87 @@
+
+body
+{
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#431082+8,300b55+100 */
+    background: #431082; /* Old browsers */
+    background: -moz-linear-gradient(left,  #431082 8%, #300b55 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left,  #431082 8%,#300b55 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right,  #431082 8%,#300b55 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#431082', endColorstr='#300b55',GradientType=1 ); /* IE6-9 */
+}
+.zubia
+{
+    color: white;
+    margin-top:20px;
+    margin-left:100px;
+    font-size: 30px;
+}
+.main-nav
+{
+    color: white;
+    float: right;
+}
+.main-nav li
+{
+    display: inline-block;
+}
+.main-nav li a
+{
+    color: white;
+    font-size: 15px;
+    font-family: "Roboto";
+    padding: 5px 20px;
+    margin-right: 25px;
+}
+.icon-header
+{
+    margin-left: 100px;
+    margin-top: 50px;
+    width: 17px;
+    height: auto;
+}
+.logo div
+{
+    display: inline-block;
+}
+.get-started
+{
+    border: 1px solid white;
+    padding: 40px 50px;
+    border-radius: 20px;
+}
+.text1
+{
+    color: white;
+    font-size: 20px;
+}
+.text2
+{
+    margin-left: 100px;
+    color: white;
+    font-size: 64px;
+    margin-top:50px;
+}
+.text3
+{
+    margin-left: 100px;
+    color: white;
+    margin-top:20px;
+    font-size:64px
+}
+.text4
+{
+    margin-left:100px;
+    color:white;
+    font-size:30px;
+    margin-top: 30px;
+}
+.get-started2
+{
+    margin-left: 100px;
+    margin-top: 20px;
+    color:white;
+    font-size :11px;
+    border-radius: 30px;
+    padding: 15px 30px;
+    background-color: red;
+}
